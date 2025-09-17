@@ -19,9 +19,9 @@ The model was trained on a dataset of labeled articles and deployed with **Strea
 - Model is saved and loaded with `joblib` for reuse.
 
 ## Tools & Libraries
--Python 3.9+
--scikit-learn
--pandas
--joblib
--matplotlib & seaborn (for visualization)
--Streamlit (for deployment)
+- Python 3.9+
+- scikit-learn
+- pandas
+- joblib
+- matplotlib & seaborn (for visualization)
+- Streamlit (for deployment)
